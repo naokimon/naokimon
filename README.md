@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nathan Cruz Martinez</h1>
 <h3 align="center">Een software developer uit Nederland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naokimon&label=Profile%20views&color=0e75b6&style=flat" alt="naokimon" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naokimon" alt="naokimon" /></a> </p>
-
 - 🌱 Momenteel leer ik nu **Python, PHP, C#, C++ en JS**
 
 - 📫 How to reach me **nathanjuliannj@gmail.com**
