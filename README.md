@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nathan Cruz Martinez</h1>
+<h1 align="center">Hi, I'm Nathan Cruz Martinez</h1>
 <h3 align="center">Een software developer uit Nederland</h3>
 
 - 🌱 Momenteel leer ik nu **Python, PHP, C#, C++ en JS**
