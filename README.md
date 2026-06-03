@@ -38,11 +38,6 @@ I'm Nathan, a software developer based in the Netherlands. I love building proje
 ## GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=naokimon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naokimon&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=naokimon&theme=tokyonight&hide_border=true" />
 </div>
 
