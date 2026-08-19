@@ -37,8 +37,8 @@ I'm Nathan, a software developer based in the Netherlands. I love building proje
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=naokimon&theme=tokyonight&hide_border=true" />
+<div style="text-align: center;">
+  <img alt="Streak Stats" src="https://streak-stats.demolab.com?user=naokimon&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
