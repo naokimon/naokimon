@@ -20,7 +20,7 @@
 
 I'm Nathan, a software developer based in the Netherlands. I love building projects and learning new things.
 
-- **Currently learning:** Python, PHP, C#, C++ Javascrip, Typescript, React and MySQL
+- **Currently learning:** Python, PHP, C#, C++ JavaScript, Typescript, React and MySQL
 - **Based in:** Netherlands
 - **Portfolio:** [naokimon.nl](https://naokimon.nl)
 - **Contact:** [nathancruzmartinez@gmail.com](mailto:nathanjuliannj@gmail.com)
